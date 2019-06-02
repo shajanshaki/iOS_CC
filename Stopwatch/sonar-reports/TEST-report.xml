@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuites name='StopwatchTests.xctest' tests='2' failures='0'>
+  <testsuite name='StopwatchTests.StopwatchTests' tests='2' failures='0'>
+    <testcase classname='StopwatchTests.StopwatchTests' name='testExample' time='0.001'/>
+    <testcase classname='StopwatchTests.StopwatchTests' name='testPerformanceExample' time='0.322'/>
+  </testsuite>
+</testsuites>
