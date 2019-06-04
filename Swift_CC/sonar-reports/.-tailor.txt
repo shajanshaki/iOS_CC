@@ -1,0 +1,23 @@
+Analyzing 5 files:
+.....
+
+********** ./SwiftExample/AppDelegate.swift **********
+/Users/Shajan_Shaki/iOS_CC/Swift_CC/SwiftExample/AppDelegate.swift:17:101: warning: [max-line-length] Line is over maximum character limit (145/100)
+/Users/Shajan_Shaki/iOS_CC/Swift_CC/SwiftExample/AppDelegate.swift:23:101: warning: [max-line-length] Line is over maximum character limit (285/100)
+/Users/Shajan_Shaki/iOS_CC/Swift_CC/SwiftExample/AppDelegate.swift:24:101: warning: [max-line-length] Line is over maximum character limit (159/100)
+/Users/Shajan_Shaki/iOS_CC/Swift_CC/SwiftExample/AppDelegate.swift:28:101: warning: [max-line-length] Line is over maximum character limit (218/100)
+/Users/Shajan_Shaki/iOS_CC/Swift_CC/SwiftExample/AppDelegate.swift:29:101: warning: [max-line-length] Line is over maximum character limit (141/100)
+/Users/Shajan_Shaki/iOS_CC/Swift_CC/SwiftExample/AppDelegate.swift:33:101: warning: [max-line-length] Line is over maximum character limit (155/100)
+/Users/Shajan_Shaki/iOS_CC/Swift_CC/SwiftExample/AppDelegate.swift:37:101: warning: [max-line-length] Line is over maximum character limit (194/100)
+/Users/Shajan_Shaki/iOS_CC/Swift_CC/SwiftExample/AppDelegate.swift:41:101: warning: [max-line-length] Line is over maximum character limit (128/100)
+/Users/Shajan_Shaki/iOS_CC/Swift_CC/SwiftExample/AppDelegate.swift:46: warning: [terminating-newline] File should terminate with exactly one newline character ('\n')
+
+********** ./SwiftExample/ViewController.swift **********
+/Users/Shajan_Shaki/iOS_CC/Swift_CC/SwiftExample/ViewController.swift:20: warning: [terminating-newline] File should terminate with exactly one newline character ('\n')
+
+********** ./SwiftExampleTests/SwiftExampleTests.swift **********
+/Users/Shajan_Shaki/iOS_CC/Swift_CC/SwiftExampleTests/SwiftExampleTests.swift:15:101: warning: [max-line-length] Line is over maximum character limit (109/100)
+/Users/Shajan_Shaki/iOS_CC/Swift_CC/SwiftExampleTests/SwiftExampleTests.swift:19:101: warning: [max-line-length] Line is over maximum character limit (111/100)
+
+Analyzed 5 files, skipped 0 files, and detected 12 violations (0 errors, 12 warnings).
+
